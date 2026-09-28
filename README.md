@@ -51,115 +51,258 @@ Beyond technical growth, I also carry a personal goal: in the future, I would lo
 
 ---
 
-## 🛠️ Tech Stack
+# Technical Toolbox
 
-### 👩‍💻 Languages
+### Backend & Programming Languages
+
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python,java,cs,dotnet,fastapi,flask&theme=dark"/>
 </p>
 
-### ⚙️ Backend & APIs
+Python • Java • C# • .NET • FastAPI • Flask
+
+### Databases & Data Management
+
 <p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OAuth2-4285F4?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase&theme=dark"/>
 </p>
 
-### 🗄️ Databases
+PostgreSQL • MySQL • MariaDB • SQLite • Supabase
+
+### Frontend & Web Technologies
+
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap&theme=dark"/>
 </p>
 
-### 🎨 Frontend
+HTML5 • CSS3 • JavaScript • TypeScript • Bootstrap • Jinja2
+
+### Cloud, Infrastructure & Tools
+
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=azure,gcp,linux,git,github,vscode&theme=dark"/>
 </p>
 
-### ☁️ Cloud & Tools
+Microsoft Azure • Google Cloud Fundamentals • Linux • Git • GitHub
+
+### Data & Analytics
+
 <p>
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python,anaconda&theme=dark"/>
 </p>
 
-### 📊 Data & Analytics
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</p>
+Pandas • Matplotlib • Power BI • Looker Studio • SQL
 
 ---
 
-## 🚀 Featured Projects
+# Engineering Knowledge
 
-### 🛍️ Fatal Lady — E-commerce Platform
-A full-stack e-commerce application developed during my technical education.
+My technical education and projects have allowed me to explore different aspects of software engineering beyond writing code.
 
-**What I worked on:**
-- User authentication and Google OAuth
-- Product catalog, cart, checkout, and orders
-- Payment flows and integrations
-- Email automations
-- Administrative dashboard
-- Cloud deployment with HTTPS
-
-**Tech used:** `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Jinja2` `Supabase` `Azure`
-
----
-
-### 💙 Turma do Bem — FIAP Challenge
-Academic project developed in partnership with **Turma do Bem**, a nonprofit organization focused on social inclusion through oral healthcare.
-
-The proposed solution combines **software development, data management, and artificial intelligence** to support fundraising, donor management, and institutional relationship management.
+| Area | Knowledge & Practice |
+|------|----------------------|
+| Backend Development | REST APIs, authentication, business logic, data validation and integrations |
+| Software Engineering | OOP, modularization, code organization and debugging |
+| Databases | Relational modeling, SQL, joins, normalization and database integration |
+| Authentication & Security | JWT, OAuth2, password hashing and access control |
+| Cloud Computing | Azure virtual machines, application deployment and cloud fundamentals |
+| Networking | TCP/IP fundamentals, network devices and connectivity concepts |
+| IoT & Embedded Systems | Arduino, ESP32, sensors and hardware-software integration |
+| Development Workflow | Git, GitHub, branching, commits and collaborative development |
+| Data Analytics | Data manipulation, visualization and dashboard development |
+| Agile Practices | Scrum, Kanban and collaborative project organization |
 
 ---
 
-## 📚 Certifications
+# Beyond Software: Networking & IoT
 
-- ✅ Microsoft Certified: **Azure Fundamentals (AZ-900)**
-- ✅ **Google Cloud Fundamentals**
+During my technical education, I had the opportunity to explore technology from different perspectives, including computer networking and embedded systems.
+
+### Computer Networks
+
+- Networking fundamentals and TCP/IP concepts.
+- IP addressing and connectivity.
+- Network devices and troubleshooting concepts.
+- Practical experience supporting computers and IT infrastructure.
+
+### Internet of Things
+
+- Arduino and ESP32 projects.
+- Sensor integration.
+- Embedded programming fundamentals.
+- Interaction between hardware and software.
+- Prototyping and experimentation.
+
+These experiences helped me develop a broader perspective on how applications, devices, and infrastructure interact.
 
 ---
 
-## 📈 GitHub Stats
+# Featured Projects
+
+## Fatal Lady | Full-Stack E-commerce
+
+A complete e-commerce platform developed during my technical education at SENAI.
+
+I worked mainly on the backend, implementing application logic, database integration, authentication, and external services.
+
+**Features**
+
+- User registration and authentication.
+- Google OAuth integration.
+- Product catalog and favorites.
+- Shopping cart and checkout.
+- Order and payment management.
+- PIX, boleto and credit card payment flows.
+- Password recovery.
+- Automated emails.
+- Administrative features.
+- Inventory management.
+- HTTPS cloud deployment.
+
+**Stack**
+
+`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Jinja2` `Supabase` `Azure`
+
+---
+
+## Fatal Lady | Data Dashboard
+
+A dashboard developed to explore and visualize information generated by the e-commerce platform.
+
+**Stack**
+
+`Python` `Streamlit` `Plotly` `SQLAlchemy` `PostgreSQL`
+
+---
+
+## Turma do Bem | FIAP Challenge
+
+An academic project developed in partnership with Turma do Bem, a nonprofit organization focused on social inclusion through oral healthcare.
+
+The project proposes a technology platform to support:
+
+- Fundraising and donor management.
+- Corporate partnership management.
+- Data centralization.
+- Process automation.
+- Decision-making through data.
+- Artificial intelligence integration.
+
+The project combines knowledge from multiple disciplines, including Java, Python, Frontend Development, Relational Databases, and Artificial Intelligence.
+
+---
+
+# 07. Professional Experience
+
+My experience combines software development, technical support, and operational systems.
+
+### Software Development
+
+Experience with backend and full-stack development activities, including application logic, database integration, and software maintenance.
+
+### IT Support
+
+Experience supporting users, computers, notebooks, Chromebooks, laboratory equipment, and technical infrastructure.
+
+### Control Desk
+
+Experience with operational systems, data organization, user access management, and monitoring activities.
+
+These roles helped me develop problem-solving skills, technical communication, adaptability, and a practical understanding of how technology supports business operations.
+
+---
+
+# 08. Education
+
+### FIAP
+**Systems Analysis and Development**
+
+Currently pursuing my undergraduate degree, with a focus on software development and technology.
+
+### SENAI Francisco Matarazzo
+**Technical Degree in Systems Development**
+
+Completed in 2026.
+
+Technical education covering programming, databases, software development, networking concepts, and practical projects.
+
+### Centro Paula Souza
+**Technical Degree in Administration**
+
+Completed in 2025.
+
+An additional foundation in business processes, organization, and management.
+
+---
+
+# 09. Certifications & Continuous Learning
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GMacarioxz&show_icons=true&theme=transparent&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9" />
+<img src="https://img.shields.io/badge/Microsoft-AZ--900_Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMacarioxz&layout=compact&theme=transparent&hide_border=true&title_color=8A2BE2&text_color=c9d1d9" />
+<img src="https://img.shields.io/badge/Google_Cloud-Foundations-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
+</div>
+
+### Additional Education
+
+- Python for Cybersecurity.
+- Data Science fundamentals.
+- Microsoft Power BI.
+- Google Looker Studio.
+- Scrum fundamentals.
+
+### Currently Exploring
+
+- Java and Object-Oriented Programming.
+- Cloud architecture and services.
+- Software architecture and design.
+- Artificial Intelligence.
+- Data engineering concepts.
+
+---
+
+# 10. GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=GMacarioxz&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMacarioxz&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=GMacarioxz&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🌐 Let's Connect
+# 11. Let's Connect
 
-<p>
-  <a href="https://github.com/GMacarioxz">
-    <img src="https://img.shields.io/badge/GitHub-GMacarioxz-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI/">
-    <img src="https://img.shields.io/badge/LinkedIn-Gabrielly%20Macario-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+I'm interested in opportunities involving software development, backend engineering, data, and cloud computing.
+
+I enjoy exchanging knowledge, connecting with professionals, and exploring how technology can solve meaningful problems.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/gabriellymcr-ribeiro/">
+<img src="https://img.shields.io/badge/LinkedIn-Gabrielly_Macario-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/GMacarioxz">
+<img src="https://img.shields.io/badge/GitHub-GMacarioxz-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💜 “Technology is not only about code — it is also about creating opportunities, solving real problems, and making a meaningful impact.”
+### Building technology. Creating opportunities. Making an impact.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:654EA3,100:4776E6&height=120&section=footer"/>
 
 </div>
