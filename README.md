@@ -60,7 +60,7 @@ Beyond technical growth, I also carry a personal goal: in the future, I would lo
 <img src="https://skillicons.dev/icons?i=python,java,cs,dotnet,fastapi,flask&theme=dark"/>
 </p>
 
-Python • Java • C# • .NET • FastAPI • Flask
+Python • Java • FastAPI
 
 ### 🗄️ Databases & Data Management
 
